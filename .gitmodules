@@ -1,3 +1,6 @@
 [submodule "Gearheader"]
 	path = Gearheader
 	url = https://github.com/FTC-Team-5197-Gearheads/Gearheader.git
+[submodule "robomatic"]
+	path = robomatic
+	url = https://github.com/acmerobotics/robomatic.git
