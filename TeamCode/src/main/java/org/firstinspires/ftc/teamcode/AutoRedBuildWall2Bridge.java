@@ -37,7 +37,7 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
  * Site tile, with front and phone facing the other Alliance.
  */
 
-@Autonomous(name = "AutoBlueWall2Bridge", group = "Trainerbot")
+@Autonomous(name = "AutoRedWall2Bridge", group = "Trainerbot")
 //@Disabled
 public class AutoRedBuildWall2Bridge extends LinearOpMode {
   Trainerbot robot = new Trainerbot(this);
